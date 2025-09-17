@@ -21,7 +21,6 @@ INSERT INTO student (id, fullName, age) VALUES
 SELECT * FROM student;
 
 -- =======================================
--- Question 3: Update the age of student id = 2 to 20
 -- =======================================
 UPDATE student
 SET age = 20
